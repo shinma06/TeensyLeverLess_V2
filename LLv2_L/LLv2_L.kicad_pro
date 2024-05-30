@@ -468,7 +468,7 @@
       "plot": "Gerbar/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "LLv2_L.step",
+      "step": "../../../../../../Downloads/LLv2_L.step",
       "svg": "",
       "vrml": ""
     },
