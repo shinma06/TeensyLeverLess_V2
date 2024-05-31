@@ -1,6 +1,6 @@
 #include <Bounce2.h>
 
-const int buttonPins[] = {23, 9, 13, 8, 14, 10, 11, 12}; // dpadUpPin, dpadDownPin, dpadLeftPin, dpadRightPin, l3ButtonPin, backButtonPin, startButtonPin, guideButtonPin
+const int buttonPins[] = {23, 9, 13, 8, 14, 10, 11, 12}; // UP, DOWN, LEFT, RIGHT, LS, BACK, START, LOGO
 const int numButtons = sizeof(buttonPins) / sizeof(buttonPins[0]);
 Bounce buttons[numButtons];
 
