@@ -954,34 +954,54 @@
 		)
 	)
 	(no_connect
-		(at 87.63 59.69)
+		(at 96.52 92.71)
 		(uuid "0978c26d-202a-41ca-8861-2b4d72db3048")
 	)
 	(no_connect
-		(at 87.63 33.02)
-		(uuid "19112baf-8e08-4587-b8c5-c1e2198849ab")
-	)
-	(no_connect
-		(at 99.06 39.37)
+		(at 102.87 81.28)
 		(uuid "3bd153f9-2d39-4e3d-b1db-c7084b83da26")
 	)
 	(no_connect
-		(at 99.06 41.91)
+		(at 76.2 81.28)
+		(uuid "7325e412-c40a-4d1a-aaa4-c46f1b04a1cd")
+	)
+	(no_connect
+		(at 93.98 92.71)
 		(uuid "9164cb44-5436-47d7-bb91-6ccc94fcbb4e")
 	)
 	(wire
 		(pts
-			(xy 154.94 60.96) (xy 191.77 60.96)
+			(xy 86.36 92.71) (xy 86.36 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "09962f6c-134c-495d-90f3-c37126dc1195")
+		(uuid "06a377c6-24b2-431a-bb52-807ea6f35aab")
 	)
 	(wire
 		(pts
-			(xy 154.94 55.88) (xy 217.17 55.88)
+			(xy 139.7 113.03) (xy 219.71 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2d83c1-3695-49eb-b000-4c4bb465b0e2")
+	)
+	(wire
+		(pts
+			(xy 85.09 111.76) (xy 96.52 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f28645e-fa09-44a7-9608-d7a236615870")
+	)
+	(wire
+		(pts
+			(xy 139.7 107.95) (xy 196.85 107.95)
 		)
 		(stroke
 			(width 0)
@@ -991,17 +1011,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 52.07) (xy 111.76 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49e87ce2-6fdd-4e94-82de-ae3313fa9e04")
-	)
-	(wire
-		(pts
-			(xy 154.94 45.72) (xy 217.17 45.72)
+			(xy 139.7 97.79) (xy 151.13 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1011,27 +1021,17 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 49.53) (xy 111.76 49.53)
+			(xy 91.44 96.52) (xy 96.52 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "783b4823-1c30-4581-a8fd-d923fba031bf")
+		(uuid "67af18ed-49ce-4964-befc-16086cd26bf4")
 	)
 	(wire
 		(pts
-			(xy 99.06 44.45) (xy 111.76 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ce0a893-d24e-4f68-a454-1e14e9995b56")
-	)
-	(wire
-		(pts
-			(xy 154.94 58.42) (xy 175.26 58.42)
+			(xy 139.7 110.49) (xy 208.28 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1041,7 +1041,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 48.26) (xy 166.37 48.26)
+			(xy 139.7 100.33) (xy 162.56 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1051,7 +1051,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 53.34) (xy 154.94 53.34)
+			(xy 185.42 105.41) (xy 139.7 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1061,37 +1061,107 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 43.18) (xy 199.39 43.18)
+			(xy 91.44 92.71) (xy 91.44 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6e750af-2678-4dea-9508-881af959332b")
+		(uuid "ae85e82f-1bf6-472d-8c06-28ad63dd7696")
 	)
 	(wire
 		(pts
-			(xy 154.94 63.5) (xy 166.37 63.5)
+			(xy 83.82 104.14) (xy 83.82 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bc6c445c-84a8-4bc6-b77d-27ba55a2056c")
+		(uuid "bb114e46-717f-45f2-a578-3983b4f4f94d")
 	)
 	(wire
 		(pts
-			(xy 99.06 46.99) (xy 111.76 46.99)
+			(xy 85.09 109.22) (xy 96.52 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d096c97a-0246-407b-bd33-ef718032f365")
+		(uuid "c0e05086-c465-4b43-a887-002964b55e1f")
 	)
 	(wire
 		(pts
-			(xy 234.95 50.8) (xy 154.94 50.8)
+			(xy 85.09 116.84) (xy 96.52 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d02829cf-1d3f-4cfe-b862-6d055bdd4038")
+	)
+	(wire
+		(pts
+			(xy 231.14 115.57) (xy 139.7 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0e7717d-503f-4fba-99c2-b92444fabf94")
+	)
+	(wire
+		(pts
+			(xy 83.82 104.14) (xy 96.52 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3d45b9b-7bda-4314-8326-9f035c455db6")
+	)
+	(wire
+		(pts
+			(xy 88.9 99.06) (xy 96.52 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d54f8468-00e8-443e-beb2-7fd241689d5c")
+	)
+	(wire
+		(pts
+			(xy 88.9 99.06) (xy 88.9 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d850e645-9871-47ba-90b6-5439b653e8c0")
+	)
+	(wire
+		(pts
+			(xy 86.36 101.6) (xy 96.52 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b03fa8-dff9-4e44-80ee-753205b462d9")
+	)
+	(wire
+		(pts
+			(xy 85.09 114.3) (xy 96.52 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e94208dc-d107-466b-858c-d60a51e58c5d")
+	)
+	(wire
+		(pts
+			(xy 173.99 102.87) (xy 139.7 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1101,7 +1171,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 201.93 60.96 0)
+		(at 229.87 113.03 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1111,63 +1181,19 @@
 		)
 		(uuid "0618becd-a8f8-4b65-b456-cd7533736a46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.9952 60.96 0)
+			(at 229.87 104.9648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VIN"
-		(shape input)
-		(at 116.84 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "11bb28ec-40d0-4e7f-9b8d-ca5cb3a2163d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.8491 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND6"
-		(shape input)
-		(at 111.76 64.77 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "37df9c82-1f0a-4e55-beb3-863550d1345e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.6948 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 245.11 50.8 0)
+		(at 184.15 102.87 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1177,7 +1203,7 @@
 		)
 		(uuid "4a1aa15d-edd7-4ede-832b-ad8eaaf71263")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 253.1752 50.8 0)
+			(at 184.15 94.8048 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1187,31 +1213,9 @@
 			)
 		)
 	)
-	(global_label "VIN"
-		(shape input)
-		(at 111.76 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "50f68d08-9727-4dd8-b468-b9bb70421075")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.7509 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "GND4"
 		(shape input)
-		(at 176.53 63.5 0)
+		(at 241.3 115.57 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1221,29 +1225,7 @@
 		)
 		(uuid "55bc1194-4528-47c8-893a-3aaf0be2aa73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.5952 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND6"
-		(shape input)
-		(at 116.84 80.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "59a3aaa0-6bda-48da-8927-3a4e6b8bd61b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.9052 80.01 0)
+			(at 241.3 107.5048 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1255,7 +1237,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 185.42 58.42 0)
+		(at 218.44 110.49 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1265,7 +1247,7 @@
 		)
 		(uuid "5bcc4dfd-3cf2-422a-ab0a-9f496482c1ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.4852 58.42 0)
+			(at 218.44 102.4248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1277,7 +1259,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 227.33 45.72 0)
+		(at 161.29 97.79 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1287,7 +1269,7 @@
 		)
 		(uuid "695baf06-b26f-41e0-ab81-940de01dc0ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.3952 45.72 0)
+			(at 161.29 89.7248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1299,7 +1281,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 260.35 53.34 0)
+		(at 195.58 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1309,7 +1291,7 @@
 		)
 		(uuid "8fa9038f-08ca-411a-8395-d1063ed686ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.4152 53.34 0)
+			(at 195.58 97.3448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1321,7 +1303,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 176.53 48.26 0)
+		(at 172.72 100.33 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1331,7 +1313,7 @@
 		)
 		(uuid "a738a5a3-05fc-40e5-af52-7c91c681ca49")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.5952 48.26 0)
+			(at 172.72 92.2648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1343,7 +1325,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 154.94 66.04 0)
+		(at 139.7 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1353,7 +1335,7 @@
 		)
 		(uuid "caeffcfa-a979-48cf-8b3a-0eb2ac84807a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0052 66.04 0)
+			(at 147.7652 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1365,7 +1347,7 @@
 	)
 	(global_label "GND4"
 		(shape input)
-		(at 227.33 55.88 0)
+		(at 207.01 107.95 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1375,7 +1357,7 @@
 		)
 		(uuid "da853be1-c4c1-434b-865b-a18ce114c95c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.3952 55.88 0)
+			(at 207.01 99.8848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1387,7 +1369,7 @@
 	)
 	(global_label "GND6"
 		(shape input)
-		(at 209.55 43.18 0)
+		(at 149.86 95.25 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1397,7 +1379,7 @@
 		)
 		(uuid "ee7b8e6b-a996-4457-8515-661552bf237b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.6152 43.18 0)
+			(at 149.86 87.1848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1409,7 +1391,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 222.25 55.88 0)
+		(at 201.93 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1418,7 +1400,7 @@
 		(fields_autoplaced yes)
 		(uuid "1284056d-afcb-4890-9404-43a38f5d3adc")
 		(property "Reference" "〇1"
-			(at 222.25 48.26 0)
+			(at 201.93 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1426,7 +1408,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 222.25 50.8 0)
+			(at 201.93 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1434,7 +1416,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 222.25 50.8 0)
+			(at 201.93 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1443,7 +1425,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 222.25 50.8 0)
+			(at 201.93 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1452,7 +1434,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 222.25 55.88 0)
+			(at 201.93 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1477,7 +1459,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 171.45 48.26 0)
+		(at 167.64 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1486,7 +1468,7 @@
 		(fields_autoplaced yes)
 		(uuid "14313259-a33e-4e09-8196-12295e33e729")
 		(property "Reference" "□1"
-			(at 171.45 40.64 0)
+			(at 167.64 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1494,7 +1476,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 171.45 43.18 0)
+			(at 167.64 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1502,7 +1484,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 171.45 43.18 0)
+			(at 167.64 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1511,7 +1493,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 43.18 0)
+			(at 167.64 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1520,7 +1502,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 171.45 48.26 0)
+			(at 167.64 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1545,7 +1527,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 240.03 50.8 0)
+		(at 179.07 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1554,7 +1536,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a6d2df1-4fb0-4ef7-a3fb-86154c7baeeb")
 		(property "Reference" "×1"
-			(at 240.03 43.18 0)
+			(at 179.07 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1562,7 +1544,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 240.03 45.72 0)
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1570,7 +1552,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 240.03 45.72 0)
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1579,7 +1561,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 45.72 0)
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1588,7 +1570,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 240.03 50.8 0)
+			(at 179.07 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,7 +1595,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 222.25 45.72 0)
+		(at 156.21 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1622,7 +1604,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c145b3c-e38a-430f-80a0-566be10dc8d6")
 		(property "Reference" "R3"
-			(at 222.25 38.1 0)
+			(at 156.21 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,7 +1612,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 222.25 40.64 0)
+			(at 156.21 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,7 +1620,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 222.25 40.64 0)
+			(at 156.21 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1647,7 +1629,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 222.25 40.64 0)
+			(at 156.21 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1656,7 +1638,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 222.25 45.72 0)
+			(at 156.21 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1681,7 +1663,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 180.34 58.42 0)
+		(at 213.36 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1690,7 +1672,7 @@
 		(fields_autoplaced yes)
 		(uuid "92aa8b1d-c15a-4366-bbe1-a540406010c7")
 		(property "Reference" "R1"
-			(at 180.34 50.8 0)
+			(at 213.36 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1698,7 +1680,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 180.34 53.34 0)
+			(at 213.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1706,7 +1688,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 180.34 53.34 0)
+			(at 213.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1715,7 +1697,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 53.34 0)
+			(at 213.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1724,7 +1706,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 180.34 58.42 0)
+			(at 213.36 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1749,7 +1731,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 255.27 53.34 0)
+		(at 190.5 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1758,7 +1740,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb9b41ca-996d-4d81-8d01-1a89924180b3")
 		(property "Reference" "△1"
-			(at 255.27 45.72 0)
+			(at 190.5 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1766,7 +1748,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 255.27 48.26 0)
+			(at 190.5 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1774,7 +1756,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 255.27 48.26 0)
+			(at 190.5 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1783,7 +1765,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 48.26 0)
+			(at 190.5 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,7 +1774,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 255.27 53.34 0)
+			(at 190.5 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1817,7 +1799,7 @@
 	)
 	(symbol
 		(lib_id "4090 USB C Breakout:4090_USB_C_Breakout")
-		(at 85.09 38.1 0)
+		(at 97.79 78.74 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1825,7 +1807,7 @@
 		(dnp no)
 		(uuid "bc94c3a5-b35b-40d8-9e7c-6149dd78daf2")
 		(property "Reference" "4090USBCBreakout1"
-			(at 93.218 32.512 0)
+			(at 89.154 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1833,7 +1815,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 90.805 33.02 0)
+			(at 102.87 84.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1841,7 +1823,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:4090 LL"
-			(at 85.09 38.1 0)
+			(at 97.79 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1850,7 +1832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 54.61 90)
+			(at 81.28 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1859,7 +1841,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 54.61 90)
+			(at 81.28 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1902,7 +1884,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 196.85 60.96 0)
+		(at 224.79 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1911,7 +1893,7 @@
 		(fields_autoplaced yes)
 		(uuid "c16649c7-9c9b-428a-9f61-3d381637c78d")
 		(property "Reference" "R2"
-			(at 196.85 53.34 0)
+			(at 224.79 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1919,7 +1901,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 196.85 55.88 0)
+			(at 224.79 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1927,7 +1909,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 196.85 55.88 0)
+			(at 224.79 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1936,7 +1918,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 55.88 0)
+			(at 224.79 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +1927,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 196.85 60.96 0)
+			(at 224.79 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1970,7 +1952,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 204.47 43.18 0)
+		(at 144.78 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1979,7 +1961,7 @@
 		(fields_autoplaced yes)
 		(uuid "c649e8bd-cf51-44a5-8ae5-496c3307b374")
 		(property "Reference" "L2"
-			(at 204.47 35.56 0)
+			(at 144.78 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1987,7 +1969,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 204.47 38.1 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1995,7 +1977,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 204.47 38.1 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2004,7 +1986,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 38.1 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,7 +1995,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 204.47 43.18 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2020,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack4")
-		(at 111.76 77.47 0)
+		(at 80.01 114.3 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2047,7 +2029,7 @@
 		(dnp no)
 		(uuid "c9649a79-f37b-4150-a95b-4b3a3e37c08d")
 		(property "Reference" "J1"
-			(at 109.22 86.36 0)
+			(at 77.47 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2055,7 +2037,7 @@
 			)
 		)
 		(property "Value" "AudioJack4"
-			(at 109.22 83.82 0)
+			(at 77.47 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2063,7 +2045,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:TRRS LL"
-			(at 111.76 77.47 0)
+			(at 80.01 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2054,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 77.47 0)
+			(at 80.01 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,7 +2063,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 4 Poles (TRRS)"
-			(at 111.76 77.47 0)
+			(at 80.01 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2112,7 +2094,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 171.45 63.5 0)
+		(at 236.22 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2121,7 +2103,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4082ddc-47bc-4281-8c06-6617c79dcee1")
 		(property "Reference" "L1"
-			(at 171.45 55.88 0)
+			(at 236.22 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2129,7 +2111,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 171.45 58.42 0)
+			(at 236.22 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2137,7 +2119,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:SW_Kailh_Choc_V2_Lofree_Flow"
-			(at 171.45 58.42 0)
+			(at 236.22 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2146,7 +2128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 58.42 0)
+			(at 236.22 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2155,7 +2137,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 171.45 63.5 0)
+			(at 236.22 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,7 +2162,7 @@
 	)
 	(symbol
 		(lib_id "4090 USB C Breakout:Teensy4.1_LL")
-		(at 149.86 41.91 0)
+		(at 134.62 93.98 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2189,7 +2171,7 @@
 		(dnp no)
 		(uuid "d61f5164-d8d8-4971-b2ca-6438f6977e0e")
 		(property "Reference" "Teensy4.1"
-			(at 133.35 38.1 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2197,7 +2179,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 133.35 40.64 0)
+			(at 118.11 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2205,7 +2187,7 @@
 			)
 		)
 		(property "Footprint" "Shinma'sAddLibrary:Teensy 4.1 LL"
-			(at 149.86 41.91 0)
+			(at 134.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2214,7 +2196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 41.91 0)
+			(at 134.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2205,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.86 41.91 0)
+			(at 134.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
